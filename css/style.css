@@ -51,8 +51,10 @@ menu ul {
 }
 .rodape2{
     display: inline-block;
-    padding: 20px;
+    vertical-align: top;
+    padding: 30px;
     height: 200px;
+    width: 250px;
 }
 .rodape2 img{
     width: 60px;
@@ -62,7 +64,7 @@ menu ul {
     list-style: none;
 }
 #rodape{
-    text-align: center;
+
     background-color: aqua;
     color: white;
     height: 250px;
@@ -70,4 +72,10 @@ menu ul {
 #rodape3{
     background-color: blue;
     height: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: salmon;
 }
