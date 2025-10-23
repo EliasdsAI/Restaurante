@@ -79,3 +79,9 @@ menu ul {
     text-decoration: none;
     color: salmon;
 }
+.y {
+    padding: 30px;
+}
+.y img{
+    height: 200px;
+}
