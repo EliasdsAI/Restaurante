@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(233, 185, 91, 0.699);
+    background-color: rgba(175, 135, 24, 0.719);
 }
 
 #container {
@@ -53,12 +53,12 @@ menu ul {
     display: inline-block;
     vertical-align: top;
     padding: 30px;
-    height: 200px;
-    width: 250px;
+    height: 300px;
+    width: 350px;
 }
 .rodape2 img{
-    width: 60px;
-    height: 60px;
+    width: 45px;
+    height: 45px;
 } 
 .rodape2 ul{
     list-style: none;
@@ -84,4 +84,31 @@ menu ul {
 }
 .y img{
     height: 200px;
+}
+#tabela{
+    text-align: left;
+    border: solid 1px red;
+    background-color: darkcyan;
+}
+#tabela th, #tabela td{
+    text-align: left;
+    border: solid 1px snow;
+}
+#canela{
+    text-align: center;
+    border: solid 1px red; 
+    background-color:chocolate;
+  }
+#canela th, #canela td{
+    text-align: center;
+    border: solid 1px black;
+}
+#susshi{
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px;
+}
+#susshi img{
+    width: 250px;
+    height: 250px;
 }
